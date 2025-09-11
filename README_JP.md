@@ -435,26 +435,26 @@ Pake の開発はこれらのハッカーたちなしにはあり得ませんで
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/JohannLai">
-                    <img src="https://avatars.githubusercontent.com/u/10769405?v=4" width="90;" alt="JohannLai"/>
-                    <br />
-                    <sub><b>Johannlai</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/Jason6987">
                     <img src="https://avatars.githubusercontent.com/u/140222795?v=4" width="90;" alt="Jason6987"/>
                     <br />
                     <sub><b>Luminall</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Milo123459">
                     <img src="https://avatars.githubusercontent.com/u/50248166?v=4" width="90;" alt="Milo123459"/>
                     <br />
                     <sub><b>Milo</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/PJ-568">
+                    <img src="https://avatars.githubusercontent.com/u/63788100?v=4" width="90;" alt="PJ-568"/>
+                    <br />
+                    <sub><b>PJ568</b></sub>
                 </a>
             </td>
             <td align="center">
